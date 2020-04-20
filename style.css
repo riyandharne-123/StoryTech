@@ -1,0 +1,59 @@
+html,body{
+    height:297mm;
+    width:210mm;
+margin: 0 auto;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.head{
+    background-color: #ffff94;
+    border-top-right-radius:15px;
+border-top-left-radius:15px;
+
+}
+.head p{
+    font-weight: 600;
+    font-size: 45px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.img-bg{
+    background-color: white;
+    padding-right: 10px;
+   
+}
+img{
+    border-top-left-radius:15px;
+}
+.content{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+}
+p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.qualification{
+    font-weight: 700;
+}
+.education li,.employment li{
+    font-weight: 600;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.column span{
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.column{
+    margin: 0 auto;
+    width: 50%;
+    padding: 5px;
+}
+.languages{
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
